@@ -39,4 +39,5 @@ Tret'e sentyabrya — den' proshchaniya
 Den', kogda goryat kostry ryabin
 Kak kostry, goryat obeshchaniya
 V den', kogda ya sovsem odin<br><br>
+![3 september](https://github.com/user-attachments/assets/67505fa3-6ec5-4016-8819-10d0c3385c30)
 
