@@ -2,7 +2,7 @@
 
 Mikhail Shufutinsky's "3 сентября" (September 3rd)
 
-![3 september](https://github.com/user-attachments/assets/09490567-94fe-427c-bc4c-45d25f30bd46)
+![3 september](https://github.com/user-attachments/assets/67505fa3-6ec5-4016-8819-10d0c3385c30)
 
 <iframe width="315" height="560" src="https://www.youtube.com/embed/3Yy3haGDurA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JoQBHYZdkuM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
@@ -22,8 +22,8 @@ Mikhail Shufutinsky's "3 сентября" (September 3rd)
 
 <span id="en"><a href='#ru'>🇷🇺</a> &nbsp;&nbsp;&nbsp;<a href='#en'>🇺🇸</a> &nbsp;&nbsp;&nbsp;</span><br><br>
 
-"The Bear's Lullaby" (Kolybel'naya medvedicy) 2 part
-![3 september](https://github.com/user-attachments/assets/09490567-94fe-427c-bc4c-45d25f30bd46)
+Mikhail Shufutinsky's "3 сентября" (September 3rd) 
+![3 september](https://github.com/user-attachments/assets/67505fa3-6ec5-4016-8819-10d0c3385c30)
 
 <iframe width="315" height="560" src="https://www.youtube.com/embed/mA60zTw0vWo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zZxyaC5_WoM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
@@ -39,5 +39,4 @@ Tret'e sentyabrya — den' proshchaniya
 Den', kogda goryat kostry ryabin
 Kak kostry, goryat obeshchaniya
 V den', kogda ya sovsem odin<br><br>
-![3 september](https://github.com/user-attachments/assets/67505fa3-6ec5-4016-8819-10d0c3385c30)
 
