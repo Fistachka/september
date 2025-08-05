@@ -33,3 +33,5 @@ Svetyat dal'nim korablyam...
 
 Previous lesson: stolbitsa.com/fistachka/umka<br><br>
 
+![3 september](https://github.com/user-attachments/assets/021bd0df-30f6-4cb5-87b4-45312cdf5247)
+![3 september](https://github.com/user-attachments/assets/09490567-94fe-427c-bc4c-45d25f30bd46)
