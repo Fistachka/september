@@ -2,7 +2,7 @@
 <level>
   <owner>Fistachka</owner>
   <repo>september</repo>
-  <version>v1.0.2</version>
+  <version>v1.0.3</version>
   <next number="1" owner="Fistachka" repo="funtik"/>
   <readme>
     <ru>3049848ee51679d0a27d3014c3269b151d303d1f5a31484a22dec52ae72c95b1</ru>
@@ -14,7 +14,7 @@
     <bpm>64</bpm>
     <lowestNote>38</lowestNote>
     <tonalities>4</tonalities>
-    <video name="7t.mp4" size="658521" type="video/mp4" volume="0.5">3fb429d014e9ddea74f228a40b2243cb72aaa6361cc5da50108e3dd8f496ad70</video>
+    <video name="1wt.mp4" size="1861171" type="video/mp4" volume="1">e02b356e4df7950f8c34c88ba0e00aa26f48a617873efa178ac9e659aecb537d</video>
     <notes>
       <note number="1" values="58" ticks="60" durationTicks="38" ppq="96" velocity="0.843"/>
       <note number="2" values="68" ticks="119" durationTicks="35" ppq="96" velocity="0.913"/>
@@ -29,7 +29,7 @@
     <bpm>64</bpm>
     <lowestNote>38</lowestNote>
     <tonalities>4</tonalities>
-    <video name="8t.mp4" size="785884" type="video/mp4" volume="0.5">fccc6746051cbf2d8b56112e174875b2f8b86230b6caec929749e5a187640ea5</video>
+    <video name="2t.mp4" size="1116245" type="video/mp4" volume="1">9a2aaeb4c8ce16ec3343f069f9a9756ee9cb500b928d7d6bca333a0a8a4a5011</video>
     <notes>
       <note number="1" values="58" ticks="109" durationTicks="48" ppq="96" velocity="0.843"/>
       <note number="2" values="68" ticks="185" durationTicks="31" ppq="96" velocity="0.906"/>
