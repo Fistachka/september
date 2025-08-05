@@ -1,6 +1,7 @@
 <span id="ru"><a href='#ru'>🇷🇺</a> &nbsp;&nbsp;&nbsp;<a href='#en'>🇺🇸</a> &nbsp;&nbsp;&nbsp;</span><br><br>
 
-Mikhail Shufutinsky's "3 сентября" (September 3rd)
+Михаил Шуфутинский - "Третье сентября"
+1 куплет
 
 ![3 september](https://github.com/user-attachments/assets/67505fa3-6ec5-4016-8819-10d0c3385c30)
 
