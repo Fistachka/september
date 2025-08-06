@@ -2,7 +2,7 @@
 <level>
   <owner>Fistachka</owner>
   <repo>september</repo>
-  <version>v1.0.5</version>
+  <version>v1.0.6</version>
   <next number="1" owner="Fistachka" repo="funtik"/>
   <readme>
     <ru>865d3d38bdda25f28e51f8e63a35e6dbd8c372bd65b04b0fb1b25c4fc8fa4551</ru>
@@ -10,18 +10,18 @@
   </readme>
   <license>b1b99f5538d1fd3702219bff50c665196dfa42f6ee755c37fe41a6178d6bc6e5</license>
   <exercise number="1">
-    <scale>major</scale>
-    <bpm>69</bpm>
-    <lowestNote>38</lowestNote>
-    <tonalities>4</tonalities>
+    <scale>minor</scale>
+    <bpm>68</bpm>
+    <lowestNote>85</lowestNote>
+    <tonalities>6</tonalities>
     <video name="1wt.mp4" size="1861171" type="video/mp4" volume="1">e02b356e4df7950f8c34c88ba0e00aa26f48a617873efa178ac9e659aecb537d</video>
     <notes>
-      <note number="1" values="58" ticks="60" durationTicks="38" ppq="96" velocity="0.843"/>
-      <note number="2" values="68" ticks="119" durationTicks="35" ppq="96" velocity="0.913"/>
-      <note number="3" values="68" ticks="160" durationTicks="49" ppq="96" velocity="0.834"/>
-      <note number="4" values="58" ticks="217" durationTicks="42" ppq="96" velocity="0.913"/>
-      <note number="5" values="68" ticks="264" durationTicks="47" ppq="96" velocity="0.913"/>
-      <note number="6" values="58" ticks="318" durationTicks="68" ppq="96" velocity="0.913"/>
+      <note number="1" values="85" ticks="528" durationTicks="25" ppq="96" velocity="0.843"/>
+      <note number="2" values="86" ticks="577" durationTicks="22" ppq="96" velocity="0.913"/>
+      <note number="3" values="3" ticks="623" durationTicks="49" ppq="96" velocity="0.834"/>
+      <note number="4" values="85" ticks="769" durationTicks="23" ppq="96" velocity="0.913"/>
+      <note number="5" values="86" ticks="813" durationTicks="25" ppq="96" velocity="0.913"/>
+      <note number="6" values="3" ticks="865" durationTicks="68" ppq="96" velocity="0.913"/>
     </notes>
   </exercise>
   <exercise number="2">
