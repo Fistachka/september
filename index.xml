@@ -2,7 +2,7 @@
 <level>
   <owner>Fistachka</owner>
   <repo>september</repo>
-  <version>v1.0.16</version>
+  <version>v1.0.17</version>
   <next number="1" owner="Fistachka" repo="funtik"/>
   <readme>
     <ru>865d3d38bdda25f28e51f8e63a35e6dbd8c372bd65b04b0fb1b25c4fc8fa4551</ru>
@@ -42,34 +42,33 @@
   <exercise number="3">
     <scale>minor</scale>
     <bpm>68</bpm>
-    <lowestNote>85</lowestNote>
+    <lowestNote>84</lowestNote>
     <tonalities>6</tonalities>
     <video name="3t.mp4" size="1734120" type="video/mp4" volume="0.5">15366b96094c465e0bb5dceecb02fe8c283240922364efe892f51b174736e1b9</video>
     <notes>
       <note number="1" values="85" ticks="70" durationTicks="27" ppq="96" velocity="0.843"/>
       <note number="2" values="86" ticks="96" durationTicks="25" ppq="96" velocity="0.906"/>
-      <note number="3" values="3" ticks="119" durationTicks="26" ppq="96" velocity="0.906"/>
+      <note number="3" values="3" ticks="119" durationTicks="96" ppq="96" velocity="0.906"/>
       <note number="4" values="85" ticks="288" durationTicks="24" ppq="96" velocity="0.906"/>
-      <note number="5" values="86" ticks="313" durationTicks="37" ppq="96" velocity="0.906"/>
+      <note number="5" values="86" ticks="313" durationTicks="23" ppq="96" velocity="0.906"/>
       <note number="6" values="3" ticks="338" durationTicks="33" ppq="96" velocity="0.906"/>
-      <note number="7" values="85" ticks="418" durationTicks="31" ppq="96" velocity="0.906"/>
-      <note number="8" values="86" ticks="447" durationTicks="29" ppq="96" velocity="0.906"/>
-      <note number="9" values="1" ticks="477" durationTicks="79" ppq="96" velocity="0.906"/>
+      <note number="7" values="4" ticks="418" durationTicks="31" ppq="96" velocity="0.906"/>
+      <note number="8" values="2" ticks="447" durationTicks="78" ppq="96" velocity="0.906"/>
     </notes>
   </exercise>
   <exercise number="4">
     <scale>minor</scale>
     <bpm>68</bpm>
-    <lowestNote>85</lowestNote>
+    <lowestNote>84</lowestNote>
     <tonalities>6</tonalities>
     <video name="4t.mp4" size="953735" type="video/mp4" volume="0.5">f1f16a0aed45f21e6e0247aee4a8f16eae2543e37573073c23c4792696e500da</video>
     <notes>
-      <note number="1" values="85" ticks="168" durationTicks="45" ppq="96" velocity="0.795"/>
+      <note number="1" values="85" ticks="168" durationTicks="25" ppq="96" velocity="0.795"/>
       <note number="2" values="86" ticks="193" durationTicks="26" ppq="96" velocity="0.795"/>
-      <note number="3" values="3" ticks="217" durationTicks="24" ppq="96" velocity="0.795"/>
+      <note number="3" values="3" ticks="217" durationTicks="94" ppq="96" velocity="0.795"/>
       <note number="4" values="85" ticks="384" durationTicks="26" ppq="96" velocity="0.795"/>
       <note number="5" values="86" ticks="408" durationTicks="27" ppq="96" velocity="0.795"/>
-      <note number="6" values="3" ticks="433" durationTicks="24" ppq="96" velocity="0.795"/>
+      <note number="6" values="3" ticks="433" durationTicks="93" ppq="96" velocity="0.795"/>
     </notes>
   </exercise>
   <exercise number="5">
