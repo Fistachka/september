@@ -5,8 +5,8 @@
 
 ![3 september](https://github.com/user-attachments/assets/67505fa3-6ec5-4016-8819-10d0c3385c30)
 
-<iframe width="315" height="560" src="https://www.youtube.com/embed/3Yy3haGDurA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JoQBHYZdkuM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
+<iframe width="315" height="560" src="https://www.youtube.com/embed/ESbpjkuEmrk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Btr-3ZRi6kg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 
 Всё не то, всё не так
 Ты мой друг, я твой враг
@@ -26,8 +26,8 @@
 Mikhail Shufutinsky's "3 сентября" (September 3rd) 
 ![3 september](https://github.com/user-attachments/assets/67505fa3-6ec5-4016-8819-10d0c3385c30)
 
-<iframe width="315" height="560" src="https://www.youtube.com/embed/mA60zTw0vWo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zZxyaC5_WoM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
+<iframe width="315" height="560" src="https://www.youtube.com/embed/Oi3A_oD1EzM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ijr-QfJMS64" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 
 Vsyo ne to, vsyo ne tak
 Ty moj drug, ya tvoj vrag
